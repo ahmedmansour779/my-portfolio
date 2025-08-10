@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Quintessential&display=swap');
 @import "tailwindcss";
 
 @theme {
   --color-primary: #65a7e1;
   --color-secondary: #3091de;
   --color-third: #0882c5;
-  --font-english: 'Play', sans-serif;
+  --color-fourth: #0C1614;
+  --color-fifth: #BF7245;
+  --font-primary: "Quintessential", serif;
+  --font-secondary: "Poiret One", sans-serif;
 }
 
 

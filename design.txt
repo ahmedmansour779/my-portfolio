@@ -1,0 +1,18 @@
+home 
+    - Welcome
+    - hero
+    - about me
+    - My statistics
+    - Customer reviews
+    - Experience
+    - Contact me
+blog
+    - search
+    - filter
+    - Categories
+    - Blogs List
+blog details
+    - title
+    - Like
+    - comments
+    - Similar content
