@@ -9,8 +9,8 @@
 }
 
 .move-welcome-animation-section {
-    animation: move-welcome-animation 3s ease-in 5s forwards;
-    -webkit-animation: move-welcome-animation 3s ease-in 5s forwards;
+    animation: move-welcome-animation 2s ease-in 5s forwards;
+    -webkit-animation: move-welcome-animation 2s ease-in 5s forwards;
 }
 
 @keyframes open-top {
