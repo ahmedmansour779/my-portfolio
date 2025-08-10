@@ -45,3 +45,7 @@
     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
   }
 }
+
+body {
+  cursor: url('../../../public/icons8-cursor-48.png'), auto;
+}

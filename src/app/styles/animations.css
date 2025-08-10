@@ -1,0 +1,48 @@
+.open-welcome-top {
+    animation: open-top 2s ease-in-out 1s forwards;
+    -webkit-animation: open-top 2s ease-in-out 1s forwards;
+}
+
+.open-welcome-bottom {
+    animation: open-bottom 2s ease-in-out 1s forwards;
+    -webkit-animation: open-bottom 2s ease-in-out 1s forwards;
+}
+
+.move-welcome-animation-section {
+    animation: move-welcome-animation 3s ease-in 5s forwards;
+    -webkit-animation: move-welcome-animation 3s ease-in 5s forwards;
+}
+
+@keyframes open-top {
+    0% {
+        top: 0;
+        height: 50%;
+    }
+
+    100% {
+        top: -8px;
+        height: 2px;
+    }
+}
+
+@keyframes open-bottom {
+    0% {
+        bottom: 0;
+        height: 50%;
+    }
+
+    100% {
+        bottom: -8px;
+        height: 2px;
+    }
+}
+
+@keyframes move-welcome-animation {
+    0% {
+        top: 0;
+    }
+
+    100% {
+        top: -100%;
+    }
+}
