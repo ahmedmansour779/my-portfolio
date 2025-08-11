@@ -9,6 +9,9 @@ export function WelcomeAnimation() {
         <p className="text-white/60">
           Frontend | Founder Sesha
         </p>
+        <p className="text-white/60 text-sm">
+          Click Here
+        </p>
         <div className="absolute bg-fourth border-t-[1.5px] border-white/10 w-[105%] bottom-0 h-1/2 open-welcome-bottom z-50"></div>
       </div>
     </div>

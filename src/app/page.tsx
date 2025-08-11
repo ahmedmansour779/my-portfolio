@@ -5,8 +5,8 @@ import { SoundBackground } from "./layouts/SoundBackground";
 export default function Home() {
   return (
     <div className="">
-      <WelcomeAnimation />
       <SoundBackground />
+      <WelcomeAnimation />
       <Hero />
     </div>
   );
