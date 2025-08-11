@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-page-custom-font */
 import type { Metadata } from "next";
 import { metaDataHome } from "./meta";
 import "./styles/animations.css";
